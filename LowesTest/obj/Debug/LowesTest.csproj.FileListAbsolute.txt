@@ -153,4 +153,3 @@ F:\YamlFiles\LowesTest\LowesTest\bin\System.Numerics.Vectors.xml
 F:\YamlFiles\LowesTest\LowesTest\bin\System.Runtime.CompilerServices.Unsafe.xml
 F:\YamlFiles\LowesTest\LowesTest\bin\System.Text.Encodings.Web.xml
 F:\YamlFiles\LowesTest\LowesTest\bin\System.Threading.Tasks.Extensions.xml
-F:\YamlFiles\LowesTest\LowesTest\obj\Debug\LowesTest.csproj.AssemblyReference.cache
